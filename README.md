@@ -1,4 +1,4 @@
-Data, Code and Figures for the manuscript entitled: "**Thermal limits of population growth rates follow macrophysiology rules in terrestrial arthropods_**".
+Data, Code and Figures for the manuscript entitled: "**Thermal limits of population growth rates follow macrophysiology rules in terrestrial arthropods**".
 
 This repository contains:
 
